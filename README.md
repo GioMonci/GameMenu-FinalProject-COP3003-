@@ -11,4 +11,7 @@ COP 3003 Final Project: Game Menu
  * Special thanks to people on SFML dev website, game state, and sonar systems for aid in project.
  */
  
+ This code and assets is free for anyone to copy and use (open source)!
+ Feel free to use and intigrate into your projects!
+ 
  - Giovanni, Luke, Ben
